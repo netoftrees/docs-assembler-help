@@ -1,0 +1,8 @@
+You can route from one map to another map and then return to the original path.
+
+This keeps the main guide clean. Complex sections live in their own map.
+
+When the reader finishes the called map, they return to the next step in the calling map.
+
+In the demo, you will see examples of this pattern. It works the same way when you build your own guides.
+

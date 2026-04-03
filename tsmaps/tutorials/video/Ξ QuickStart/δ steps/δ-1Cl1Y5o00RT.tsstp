@@ -1,0 +1,12 @@
+### How it solves it
+
+This tutorial walks you through five core ideas that make this approach different.
+
+- **Routing** – One map calls another, then returns. No duplication.
+- **Nesting** – Maps inside maps. Handles hundreds of steps cleanly.
+- **Absolute ownership** – Your Git repos. Your control. No subscription.
+- **Publish to Markdown** – Standard files. Uninstall anytime. No lock-in.
+- **Third-party guides** – Use guides others maintain. They update it; you keep working.
+
+Each concept builds on the last. The video walks through them in order.
+

@@ -1,0 +1,8 @@
+In the demo, open the main pathway and explore a few steps.
+
+Notice how the guide can grow to hundreds of steps while staying clear. This is possible because maps can be nested.
+
+A single map can hold a small piece of logic or content. You can then use that map as one step inside a larger map. This is similar to how you use functions or classes when writing code.
+
+Changes made in one place update everywhere the map is used.
+

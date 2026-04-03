@@ -1,0 +1,179 @@
+{
+    "key": "1CHn0IB01qC ",
+    "token": "Buildamaptutorial",
+    "name": "BuildAMapTutorial",
+    "created": "2026-03-29T16:38:26.479Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/netoftrees/docs-assembler-help/tsmaps/tutorials/video/Ξ BuildAMapTutorial/BuildAMapTutorial.tsmap",
+    "iText": "Link to 'BuildAMapTutorial'",
+    "___rΩΩt___": {
+        "key": "1CHn4DX01QS",
+        "nodes": [
+            {
+                "key": "1CHn5mC004q",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1Ca3dm401c6",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1CP8RgN00gg",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1CZsP5301mw",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1CZsls300po",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1CZtm1v00TA",
+                                                        "order": 1,
+                                                        "option": "End of quick start – try building a simple map yourself",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1CZu8LP00yO",
+                                                                "order": 1,
+                                                                "option": "Restart the tutorial"
+                                                            },
+                                                            {
+                                                                "key": "1CZuADF00yq",
+                                                                "order": 2,
+                                                                "option": "(or end)"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "1CZsZYi021u",
+                                        "order": 2,
+                                        "option": "Show an example of deep nesting in the demo",
+                                        "isLeaf": true,
+                                        "isAncillary": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1CZrmyb00vO",
+                        "order": 2,
+                        "option": "How Git storage works (would really want this to include vscode and the extension - so need a term that suggests the applications git and ownership?)",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1CZrpQ200fy",
+                        "order": 3,
+                        "option": "What is a remote guide?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1CZrrPO025w",
+                        "order": 4,
+                        "option": "Why nesting helps with large guides",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1CHobaP00dY",
+                "order": 2,
+                "option": "Explain LLM hallucinations",
+                "isLeaf": true,
+                "isAncillary": true,
+                "gPath": {
+                    "guidePath": "Technical/Hallucinations_frags",
+                    "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
+                }
+            },
+            {
+                "key": "1CHonDm00PP",
+                "order": 3,
+                "option": "Explain decision-trees",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1CP8y0V01Io"
+            },
+            {
+                "key": "1CP2NqB00ha",
+                "order": 4,
+                "option": "Explain deterministic",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1CPE48v003s"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1CHn4DX01QS",
+            "relativePath": "./δ steps/δ-1CHn4DX01QS.tsstp"
+        },
+        {
+            "key": "δ-1CHobaP00dY",
+            "relativePath": "./δ steps/δ-1CHobaP00dY.tsstp"
+        },
+        {
+            "key": "δ-1CHonDm00PP",
+            "relativePath": "./δ steps/δ-1CHonDm00PP.tsstp"
+        },
+        {
+            "key": "δ-1CHn5mC004q",
+            "relativePath": "./δ steps/δ-1CHn5mC004q.tsstp"
+        },
+        {
+            "key": "δ-1CP2NqB00ha",
+            "relativePath": "./δ steps/δ-1CP2NqB00ha.tsstp"
+        },
+        {
+            "key": "δ-1CP8RgN00gg",
+            "relativePath": "./δ steps/δ-1CP8RgN00gg.tsstp"
+        },
+        {
+            "key": "δ-1CZrmyb00vO",
+            "relativePath": "./δ steps/δ-1CZrmyb00vO.tsstp"
+        },
+        {
+            "key": "δ-1CZrpQ200fy",
+            "relativePath": "./δ steps/δ-1CZrpQ200fy.tsstp"
+        },
+        {
+            "key": "δ-1CZrrPO025w",
+            "relativePath": "./δ steps/δ-1CZrrPO025w.tsstp"
+        },
+        {
+            "key": "δ-1CZsP5301mw",
+            "relativePath": "./δ steps/δ-1CZsP5301mw.tsstp"
+        },
+        {
+            "key": "δ-1CZsZYi021u",
+            "relativePath": "./δ steps/δ-1CZsZYi021u.tsstp"
+        },
+        {
+            "key": "δ-1CZsls300po",
+            "relativePath": "./δ steps/δ-1CZsls300po.tsstp"
+        },
+        {
+            "key": "δ-1CZtm1v00TA",
+            "relativePath": "./δ steps/δ-1CZtm1v00TA.tsstp"
+        },
+        {
+            "key": "δ-1Ca3dm401c6",
+            "relativePath": "./δ steps/δ-1Ca3dm401c6.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1Ca4OgB008h",
+        "editorID": "car_b8320749561746d9bccdb6002fb943ab",
+        "ticks": 1775072425847
+    }
+}
