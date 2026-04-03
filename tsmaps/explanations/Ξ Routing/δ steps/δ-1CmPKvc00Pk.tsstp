@@ -1,4 +1,4 @@
-### What is routing?
+## What is routing?
 
 Routing lets one map call another map and then return to where it started.
 
@@ -8,4 +8,6 @@ Think of it like a function call in code:
 - When finished, control returns to the main map.
 
 This keeps each map focused on one job. Complex logic lives in its own map.
+
+A routed map is called at a decision point and can return through different exits, allowing the flow to branch and rejoin in multiple ways.
 

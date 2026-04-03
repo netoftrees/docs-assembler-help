@@ -1,8 +1,9 @@
 ### Summary
 
-- **Deferred questions** – The guide asks for the specific operation only when the answer matters.
-- **Routing to specialised sub-guides** – Each operation's unique details live in its own map.
-- **Multiple exit points** – A sub-guide can return through any exit it defines.
+- **Deferred questions** – The amp asks for the specific operation only when the answer matters.
+- **Routing to specialised sub-maps** – Each operation's unique details live in its own map.
+- **Multiple exit points** – A sub-map can return through any exit it defines.
+- **Deduplication** – The same sub-map serves many parent maps.
 
 The result is a system that gives the minimal number of steps to a solution. The user is never asked a question or given an instruction that is not yet relevant.
 

@@ -2,5 +2,9 @@
 
 The map stays short. Each piece stays focused on its own level of detail. Specialised knowledge lives in its own place. The main map remains clean.
 
-The user never sees irrelevant steps. Content appears only when needed. Your map stays simple and easy to maintain, even when procedures inside sub-maps or remote guides change over time.
+The user never sees irrelevant steps. Content appears only when needed. Your map stays simple and easy to maintain, even when procedures inside sub-maps change over time.
+
+Routing also enables:
+- **Deduplication** – The same sub-map can be routed to from multiple parent maps
+- **Separation of concerns** – Different teams can own different sub-maps
 

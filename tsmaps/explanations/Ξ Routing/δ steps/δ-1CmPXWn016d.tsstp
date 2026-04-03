@@ -10,3 +10,5 @@ That sub-map handles the specialised checks and can exit in different ways depen
 
 The main map only needs to know which exit was taken.
 
+A routed map can have multiple exit points. For example, a sensor diagnostic map might have three exits: "sensor faulty", "wiring loose", or "no fault found". The calling map decides what to do next based on which exit is used.
+

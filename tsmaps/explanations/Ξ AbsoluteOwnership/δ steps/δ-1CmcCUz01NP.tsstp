@@ -1,0 +1,14 @@
+### Why Git instead of a database?
+
+Most documentation tools use databases. They store your content in tables and blobs. You can only access it through their interface or their API.
+
+Git gives you things a database cannot:
+
+- **Full history** – Every change is tracked. You can see who changed what, and when.
+- **Instant rollback** – Made a mistake? Revert to any previous version with one command.
+- **No new tools to learn** – If you already use Git for code, you already know how to use it for documentation.
+- **Offline access** – Your files are on your hard drive. You do not need an internet connection to write or edit.
+- **Standard diffing** – See exactly what changed between two versions, line by line.
+
+A database hides the complexity. Git gives you power and control.
+

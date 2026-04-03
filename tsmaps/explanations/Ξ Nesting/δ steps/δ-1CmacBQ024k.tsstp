@@ -1,0 +1,12 @@
+### Benefits of nesting
+
+Nesting keeps large guides manageable. Without nesting, a guide with hundreds of steps becomes impossible to navigate and maintain.
+
+With nesting, you can:
+- Hide complexity inside smaller maps
+- Reuse the same nested map in multiple parent maps
+- Change something once, and every parent map sees the update
+- Let different teams own different nested maps
+
+The demo we showed earlier has pathways hundreds of steps long. It stays organised because it uses nesting heavily.
+
