@@ -1,0 +1,12 @@
+### Benefits of publishing to Markdown
+
+Because the final output is standard Markdown:
+
+- **No vendor lock-in** – Uninstall the extension. Your published docs are still yours.
+- **Edit anywhere** – Any Markdown editor works. No special software required.
+- **Host anywhere** – Markdown files can be served from any web server, static hosting, or even a shared drive.
+- **Readers never need the extension** – They just see normal documentation. No plugins, no special viewers.
+- **Future-proof** – Markdown has been around for decades. It will still be readable in twenty years.
+
+You can think of the extension as a power tool for *building* documentation. The output is standard. You are not locked into the tool.
+

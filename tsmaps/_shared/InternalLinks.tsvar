@@ -1,0 +1,3 @@
+¬quickStart-url: ../tutorials/video/Ξ QuickStart/QuickStart.tsmap
+¬quickStart-link-D: ({{::quickStart-url}})
+¬quickStart-link: [Quick start video]{{::quickStart-link-D}}

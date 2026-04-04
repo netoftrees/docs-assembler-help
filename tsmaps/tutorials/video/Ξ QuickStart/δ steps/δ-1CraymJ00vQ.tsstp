@@ -1,0 +1,15 @@
+¬import il from "../../../../_shared/InternalLinks"
+
+
+## Summary of benefits
+
+You have now seen the main ideas that make Documentation Assembler different:
+
+- Maps that can call other maps and return (routing)
+- Deep nesting for very large guides
+- Full ownership through Git with no subscriptions
+- Publishing to ordinary Markdown files (no lock-in)
+- Ability to reuse remote guides maintained by others
+
+{{::il.quickStart-link}}
+

@@ -1,0 +1,12 @@
+### Benefits of third party guides
+
+Because you can link to guides maintained by others:
+
+- **You save work** – Write once. Link to experts. Never duplicate their content.
+- **Experts keep it up to date** – When a vendor updates their guide, your map automatically uses the new version. You change nothing.
+- **You stay in your lane** – Focus on what your team knows best. For everything else, link to someone who knows it better.
+- **Build an ecosystem** – Different teams across your organisation can publish their own guides and use each other's. A hardware team maintains the hardware guide. A software team maintains the software guide. A production line guide links to both.
+- **Suppliers participate** – A component vendor can host their own troubleshooting guide. You link to it. They update it when they change their product.
+
+The extension does not care where a guide lives. It only cares that it exists and follows the same map format.
+

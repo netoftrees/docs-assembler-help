@@ -1,0 +1,10 @@
+### How it works
+
+Under the hood, a remote guide is just a map published to a URL.
+
+When you route to a remote guide, the extension fetches it from that URL at publish time. The remote content is assembled into your final documentation alongside your local content.
+
+If the remote guide itself links to other remote guides, those are fetched too. The whole tree resolves automatically.
+
+Your reader never knows which parts came from you and which came from a vendor. It all appears as one seamless guide.
+

@@ -1,0 +1,8 @@
+## What does "publish to Markdown" mean?
+
+When you finish building your maps, the extension assembles them into standard Markdown files.
+
+These are not proprietary files. They are plain `.md` files that any text editor can open. VS Code, Notepad, Obsidian, Typora, even a basic text editor – they all work.
+
+The Markdown files are what you publish to your hosting (GitHub Pages, your own server, or any static hosting). Your readers never see the maps. They see clean, readable documentation.
+

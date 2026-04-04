@@ -1,0 +1,78 @@
+{
+    "key": "1CrZAeL005H ",
+    "token": "Thirdpartyguides",
+    "name": "ThirdPartyGuides",
+    "created": "2026-04-04T19:29:17.797Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/netoftrees/docs-assembler-help/tsmaps/explanations/Ξ ThirdPartyGuides/ThirdPartyGuides.tsmap",
+    "iText": "Link to 'ThirdPartyGuides'",
+    "iExits": [
+        {
+            "key": "1Cras7J01Cc",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1CrZDJ200vY",
+        "nodes": [
+            {
+                "key": "1CrZDw701xn",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1Cra13H00rA",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1CraKZZ02NS",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1CrajIg00UY",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1CranLv01Dx",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "exitKey": "1Cras7J01Cc"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1CrZDJ200vY",
+            "relativePath": "./δ steps/δ-1CrZDJ200vY.tsstp"
+        },
+        {
+            "key": "δ-1CrZDw701xn",
+            "relativePath": "./δ steps/δ-1CrZDw701xn.tsstp"
+        },
+        {
+            "key": "δ-1Cra13H00rA",
+            "relativePath": "./δ steps/δ-1Cra13H00rA.tsstp"
+        },
+        {
+            "key": "δ-1CraKZZ02NS",
+            "relativePath": "./δ steps/δ-1CraKZZ02NS.tsstp"
+        },
+        {
+            "key": "δ-1CrajIg00UY",
+            "relativePath": "./δ steps/δ-1CrajIg00UY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1CrauOD00b4",
+        "editorID": "car_9351dc0f5a9c4f9e8fc2f25caa080dfa",
+        "ticks": 1775331371950
+    }
+}

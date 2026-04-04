@@ -1,0 +1,10 @@
+### No lock-in
+
+Most documentation tools store your content in their own format or database. If you stop paying or want to leave, exporting your content is painful – if they let you export at all.
+
+This extension works differently.
+
+The maps you build are stored as JSON files. But the *output* – the final documentation – is Markdown. If you uninstall the extension tomorrow, you lose the ability to edit the maps. But you keep the published Markdown files.
+
+You can continue editing those Markdown files with any editor. You lose the branching and routing features, but your documentation is not trapped.
+

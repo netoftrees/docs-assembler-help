@@ -1,7 +1,5 @@
 ### Summary
 
-In this map you have seen:
-
 - **Nesting** – One map inside another, hiding complexity
 - **Encapsulation** – The nested map's internal details stay hidden from the parent
 - **Reusability** – The same nested map can be used in many parent maps
