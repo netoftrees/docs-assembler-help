@@ -68,6 +68,7 @@ Routing also enables:
 - Separation of concerns – different teams can own different sub-maps
 
 ### Routing summary
+
 You have seen:
 - Deferred questions – the guide asks for the specific operation only when the answer matters
 - Routing to specialised sub-maps
@@ -88,13 +89,13 @@ This is similar to folders inside folders or functions that call other functions
 
 Imagine a troubleshooting guide for a factory.
 
-The top-level map refers to maps for all of the major assemblie of the factory line. And they in turn refer to their ssub-assemblies, and they in turn to their machines, and they in turn to their components etc. 
+The top-level map refers to maps for all of the major assemblies of the factory line. Those in turn refer to their sub-assemblies, which refer to their machines, which refer to their components, and so on.
 
-The top-level map does not need to know about their sub-map steps or to their nested maps. If a component changes, you update only the nested map and all its dependants reflect the change.
+The top-level map does not need to know the internal steps of any nested map. If a component changes, you update only the nested map and all its parent maps automatically reflect the change.
 
 ### Benefits of nesting
 
-Nesting keeps large maps manageable. Without it, a map with hundreds of steps becomes impossible to navigate. And complex system map might have tens of thousands of steps.
+Nesting keeps large maps manageable. Without it, a map with hundreds or even thousands of steps becomes impossible to navigate.
 
 With nesting you can:
 - Hide complexity inside smaller maps
@@ -106,7 +107,7 @@ The demo uses nesting heavily, which is why it stays organised even with pathway
 
 ### Nesting summary
 
-Nesting gives you encapsulation, reusability and maintainability. Like with classes in code it is how you build massive, complex guides that are straightforward to maintain and grow.
+Nesting gives you encapsulation, reusability and maintainability. Like classes in code, it is how you build massive, complex guides that are straightforward to maintain and grow.
 
 ## What is absolute ownership?
 
@@ -117,19 +118,21 @@ You are not storing your documentation in a proprietary database or on someone e
 ### Why Git instead of a database?
 
 Git gives you:
-- Full history – Every change is tracked. You can see who changed what, and when.
-- Instant rollback – Made a mistake? Revert to any previous version with one command.
-- No new tools to learn – If you already use Git for code, you already know how to use it for documentation.
-- Offline access – Your files are on your hard drive. You do not need an internet connection to write or edit.
-- Standard diffing – See exactly what changed between two versions, line by line.
+- Full history – every change is tracked. You can see who changed what, and when.
+- Instant rollback – revert to any previous version with one command.
+- No new tools to learn – if you already use Git for code, you already know how to use it for documentation.
+- Offline access – your files are on your hard drive.
+- Standard diffing – see exactly what changed between two versions, line by line.
 
 ### Benefits of absolute ownership
+
 - No subscription fees
 - No vendor lock-in
 - Use your existing Git workflow (pull requests, reviews, CI/CD)
 - Backups are already handled
 
 ### Absolute ownership summary
+
 You own your content completely. The extension is just a tool for editing it.
 
 ## What does "publish to Markdown" mean?
@@ -156,7 +159,7 @@ You simply link to it from your own map. When the reader reaches that step they 
 ### Benefits of remote guides
 
 - You do not have to copy or maintain their content
-- Their experts keep their guide up to date – your map automatically reflects any changes.
+- Their experts keep their guide up to date – your map automatically reflects any changes
 - You stay focused on what your team knows best
 - You can build an ecosystem where different teams publish and reuse each other’s guides
 
@@ -189,4 +192,3 @@ If you uninstall the extension tomorrow, the published Markdown files remain. Yo
 ### Final summary
 
 All files are plain JSON and Markdown. You cannot break anything permanently — Git has your history.
-
