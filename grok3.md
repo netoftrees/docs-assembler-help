@@ -8,7 +8,9 @@ This extension lets you build documentation that branches in different direction
 
 You write content in Markdown. You organise it into maps. A map is a set of steps followed by options.
 
-The key difference: maps can call other maps and return. This means you never duplicate content. You build reusable pieces, like functions in code.
+You edit inside VS Code using the visual Map Editor or the raw JSON files, with IntelliSense and automatic validation.
+
+The key difference: maps can call other maps and return. You can also define variables for reusable text snippets and use ancillaries for collapsible sections. This means you never duplicate content. You build reusable pieces, like functions in code.
 
 The result is documentation that adapts to the user's situation without becoming a mess to maintain.
 
@@ -100,7 +102,7 @@ Nesting keeps large maps manageable. Without it, a map with hundreds or even tho
 With nesting you can:
 - Hide complexity inside smaller maps
 - Reuse the same nested map in many places
-- Change something once and every parent map updates automatically
+- Change something once and every parent map updates automatically (single source of truth)
 - Let different teams own different nested maps
 
 The demo uses nesting heavily, which is why it stays organised even with pathways hundreds of steps long.
@@ -137,7 +139,7 @@ You own your content completely. The extension is just a tool for editing it.
 
 ## What does "publish to Markdown" mean?
 
-When you finish building your maps, the extension assembles them into standard Markdown files that any text editor can open.
+When you finish building your maps, the extension assembles them into standard Markdown files that any text editor can open. It automatically copies linked assets, validates the entire guide, fixes relative links, and prepares the files for any static host.
 
 ### Benefits of publishing to Markdown
 
@@ -176,6 +178,8 @@ This tutorial introduced five core concepts that work together:
 - Absolute ownership
 - Publish to Markdown
 - Remote guides
+
+You can also define **variables** for reusable text snippets (with automatic link fixing) and use **ancillaries** for collapsible sections that let readers expand or hide detail as needed.
 
 Each concept solves a specific maintenance problem. Together they form a complete system.
 
