@@ -1,6 +1,6 @@
 ### Quick start video tutorial
 
-What if your documentation could think like you do, navigating "if this, then that, except when…" logic to deliver precisely the right information? No LLM hallucinations. No decision-tree duplication. Just deterministic content.
+What if your documentation could think like you do, navigating "if this, then that, except when..." logic to deliver precisely the right information? No LLM hallucinations. No decision-tree duplication. Just deterministic content.
 
 ### What does this extension do?
 
@@ -26,13 +26,15 @@ You will also see how breaking things into smaller pieces simplifies maintenance
 
 This tutorial walks you through five core ideas that make this approach different:
 
-- Routing – one map calls another, then returns
-- Nesting – maps inside maps for massive guides
-- Absolute ownership – your Git repos, no subscriptions
-- Publish to Markdown – standard files, no lock-in
-- Remote guides – use and reuse content that others maintain
+- Routing - one map calls another, then returns.
+- Nesting - maps inside maps for massive guides.
+- Absolute ownership - your Git repos, no subscriptions.
+- Publish to Markdown - standard files, no lock-in.
+- Remote guides - use content that others maintain and reuse it across your maps.
 
 Each concept builds on the last. The video walks through them in order.
+
+## Walking through the concepts
 
 ## What is routing?
 
@@ -61,18 +63,18 @@ The main map only needs to know which exit was taken.
 
 ### Benefits of routing
 
-The main map stays short. Each piece stays focused on its own level of detail. Specialised knowledge lives in its own place.
+The main map stays short. Each piece stays focused on its own level of detail. Specialised knowledge lives in a dedicated map.
 
 The user never sees irrelevant steps. Content appears only when needed. Your map stays simple and easy to maintain, even when procedures inside sub-maps change.
 
 Routing also enables:
-- Deduplication – the same sub-map can be used from many parent maps
-- Separation of concerns – different teams can own different sub-maps
+- Deduplication - the same sub-map can be used from many parent maps
+- Separation of concerns - different teams can own different sub-maps
 
 ### Routing summary
 
 You have seen:
-- Deferred questions – the guide asks for the specific operation only when the answer matters
+- Deferred questions - the guide asks for the specific operation only when the answer matters
 - Routing to specialised sub-maps
 - Multiple exit points
 - Deduplication across parent maps
@@ -109,22 +111,22 @@ The demo uses nesting heavily, which is why it stays organised even with pathway
 
 ### Nesting summary
 
-Nesting gives you encapsulation, reusability and maintainability. Like classes in code, it is how you build massive, complex guides that are straightforward to maintain and grow.
+Nesting gives you encapsulation, reusability, and maintainability. Like classes in code, it is how you build massive, complex guides that remain straightforward to maintain and grow.
 
 ## What is absolute ownership?
 
 Absolute ownership means all your content lives in standard Git repositories that you control.
 
-You are not storing your documentation in a proprietary database or on someone else’s server.
+You are not storing your documentation in a proprietary database or on someone else's server.
 
 ### Why Git instead of a database?
 
 Git gives you:
-- Full history – every change is tracked. You can see who changed what, and when.
-- Instant rollback – revert to any previous version with one command.
-- No new tools to learn – if you already use Git for code, you already know how to use it for documentation.
-- Offline access – your files are on your hard drive.
-- Standard diffing – see exactly what changed between two versions, line by line.
+- Full history - every change is tracked. You can see who changed what, and when.
+- Instant rollback - revert to any previous version with one command.
+- No new tools to learn - if you already use Git for code, you already know how to use it for documentation.
+- Offline access - your files are on your hard drive.
+- Standard diffing - see exactly what changed between two versions, line by line.
 
 ### Benefits of absolute ownership
 
@@ -161,15 +163,15 @@ You simply link to it from your own map. When the reader reaches that step they 
 ### Benefits of remote guides
 
 - You do not have to copy or maintain their content
-- Their experts keep their guide up to date – your map automatically reflects any changes
+- Their experts keep their guide up to date - your map automatically reflects any changes
 - You stay focused on what your team knows best
-- You can build an ecosystem where different teams publish and reuse each other’s guides
+- You can build an ecosystem where different teams publish and reuse each other's guides
 
 ### Remote guides summary
 
-Remote guides let you link instead of copy. Specialised knowledge stays with the people who know it best.
+Remote guides let you link instead of copy. The people who know the content best are the ones who maintain it.
 
-## What you have learned
+### What you have learned
 
 This tutorial introduced five core concepts that work together:
 
