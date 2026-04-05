@@ -1,4 +1,4 @@
-### Quick start video tutorial
+## Quick start video tutorial
 
 What if your documentation could think like you do, navigating "if this, then that, except when..." logic to deliver precisely the right information? No LLM hallucinations. No decision-tree duplication. Just deterministic content.
 
@@ -24,7 +24,7 @@ The real dread goes deeper:
 - Error-prone updates - you change something in one place, but miss the same information duplicated elsewhere
 - Brittle, unmanageable documentation that cannot handle similar-but-different scenarios without creating contradictions
 
-The demo we will show you later shows how encapsulation eliminates this dread. It is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
+The demo we will show you later proves how encapsulation eliminates this dread. It is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
 
 You will also see how breaking things into smaller pieces simplifies maintenance and lets different teams own different sections without conflict.
 

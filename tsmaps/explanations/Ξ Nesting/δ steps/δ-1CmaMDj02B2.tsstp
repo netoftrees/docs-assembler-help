@@ -1,6 +1,6 @@
 ### Nesting example
 
-Imagine a troubleshooting guide for a factory.
+Imagine a troubleshooting guide for a factory, although this could be any multi-variant system.
 
 The top-level map refers to maps for all of the major assemblies of the factory line. Those in turn refer to their sub-assemblies, which refer to their machines, which refer to their components, and so on.
 
