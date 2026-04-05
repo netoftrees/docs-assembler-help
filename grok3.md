@@ -18,6 +18,12 @@ The result is documentation that adapts to the user's situation without becoming
 
 If you have ever copied and pasted the same paragraph into ten different documents, then updated it and missed a spot, you already know the pain.
 
+The real dread goes deeper:
+
+- Sprawling, duplicated content across guides and wikis - impossible to know what is accurate
+- Error-prone updates - you change something in one place, but miss the same information duplicated elsewhere
+- Brittle, unmanageable documentation that cannot handle similar-but-different scenarios without creating contradictions
+
 The demo we will show you later is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
 
 You will also see how breaking things into smaller pieces simplifies maintenance and lets different teams own different sections without conflict.
@@ -26,15 +32,13 @@ You will also see how breaking things into smaller pieces simplifies maintenance
 
 This tutorial walks you through five core ideas that make this approach different:
 
-- Routing - one map calls another, then returns.
-- Nesting - maps inside maps for massive guides.
-- Absolute ownership - your Git repos, no subscriptions.
-- Publish to Markdown - standard files, no lock-in.
-- Remote guides - use content that others maintain and reuse it across your maps.
+- Routing – one map calls another, then returns
+- Nesting – maps inside maps for massive guides
+- Absolute ownership – your Git repos, no subscriptions
+- Publish to Markdown – standard files, no lock-in
+- Remote guides – use and reuse content that others maintain
 
 Each concept builds on the last. The video walks through them in order.
-
-## Walking through the concepts
 
 ## What is routing?
 
