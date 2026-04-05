@@ -1,7 +1,7 @@
 ### Routing summary
 
 You have seen:
-- Deferred questions – the guide asks for the specific operation only when the answer matters
+- Deferred questions - the guide asks for the specific operation only when the answer matters
 - Routing to specialised sub-maps
 - Multiple exit points
 - Deduplication across parent maps

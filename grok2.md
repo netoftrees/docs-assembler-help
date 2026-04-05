@@ -10,7 +10,7 @@ Ancillaries:
 - What does deterministic mean here? (links to map 'What is Deterministic')
 
 Options:
-- Continue – choose how you want to learn
+- Continue - choose how you want to learn
 
 
 ## Node 2: What does this extension do?
@@ -126,7 +126,7 @@ Think of it like a function call in code:
 This keeps each map focused on one job. Complex logic lives in its own map.
 
 Options:
-- Continue – see a concrete example
+- Continue - see a concrete example
 
 
 ## Node 2: A concrete example
@@ -142,7 +142,7 @@ That sub-map handles the specialised checks and can exit in different ways depen
 The main map only needs to know which exit was taken.
 
 Options:
-- Continue – routing to remote guides
+- Continue - routing to remote guides
 
 
 ## Node 3: Routing to remote guides
@@ -154,7 +154,7 @@ A remote guide is a map published and maintained by someone else on their own si
 If the owner updates their remote guide, your guide automatically uses the new version.
 
 Options:
-- Continue – benefits of routing
+- Continue - benefits of routing
 
 
 ## Node 4: Benefits of routing
@@ -190,7 +190,7 @@ Nesting lets you place one map inside another map, as many levels deep as you ne
 This is how the system handles massive guides without becoming unmanageable.
 
 Options:
-- Continue – see it in the demo
+- Continue - see it in the demo
 
 
 ## Node 2: How nesting works in practice

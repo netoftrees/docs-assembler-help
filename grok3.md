@@ -24,7 +24,7 @@ The real dread goes deeper:
 - Error-prone updates - you change something in one place, but miss the same information duplicated elsewhere
 - Brittle, unmanageable documentation that cannot handle similar-but-different scenarios without creating contradictions
 
-The demo we will show you later is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
+The demo we will show you later shows how encapsulation eliminates this dread. It is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
 
 You will also see how breaking things into smaller pieces simplifies maintenance and lets different teams own different sections without conflict.
 
@@ -32,11 +32,11 @@ You will also see how breaking things into smaller pieces simplifies maintenance
 
 This tutorial walks you through five core ideas that make this approach different:
 
-- Routing – one map calls another, then returns
-- Nesting – maps inside maps for massive guides
-- Absolute ownership – your Git repos, no subscriptions
-- Publish to Markdown – standard files, no lock-in
-- Remote guides – use and reuse content that others maintain
+- Routing - one map calls another, then returns
+- Nesting - maps inside maps for massive guides
+- Absolute ownership - your Git repos, no subscriptions
+- Publish to Markdown - standard files, no lock-in
+- Remote guides - use and reuse content that others maintain
 
 Each concept builds on the last. The video walks through them in order.
 
@@ -84,6 +84,7 @@ You have seen:
 - Deduplication across parent maps
 
 The result is the shortest useful path for the reader.
+Later you'll see how to integrate expertise you don't own.
 
 ## What is nesting?
 
@@ -95,7 +96,7 @@ This is similar to folders inside folders or functions that call other functions
 
 ### Nesting example
 
-Imagine a troubleshooting guide for a factory.
+Imagine a troubleshooting guide for a factory, although this could be any multi-variant system.
 
 The top-level map refers to maps for all of the major assemblies of the factory line. Those in turn refer to their sub-assemblies, which refer to their machines, which refer to their components, and so on.
 

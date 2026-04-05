@@ -9,7 +9,7 @@ Options:
 - What are LLM hallucinations?
 - What are decision trees in documentation?
 - What does deterministic mean here?
-- Continue – choose how you want to learn
+- Continue - choose how you want to learn
 
 
 ## Node 2: The learning menu
@@ -18,16 +18,16 @@ Main text:
 
 This tutorial can go in different directions depending on what you want to see first.
 
-The video takes the routing-first branch – routing is the most distinctive feature of this system. Afterwards, you can come back and explore the other branches.
+The video takes the routing-first branch - routing is the most distinctive feature of this system. Afterwards, you can come back and explore the other branches.
 
 Options:
-- Branch A – Show me the demo and explain storage (practical foundation)
-- Branch B – Show me routing first – that sounds like the key idea (the video path)
-- Branch C – Show me how nesting handles massive trees (the scalability proof)
-- Branch D – Just take me on a single straight path (traditional tutorial)
+- Branch A - Show me the demo and explain storage (practical foundation)
+- Branch B - Show me routing first - that sounds like the key idea (the video path)
+- Branch C - Show me how nesting handles massive trees (the scalability proof)
+- Branch D - Just take me on a single straight path (traditional tutorial)
 
 
-## Node 3: What is routing? (Branch B – routing first)
+## Node 3: What is routing? (Branch B - routing first)
 
 Main text:
 Routing lets one guide call another guide and then return to where it started.
@@ -40,12 +40,12 @@ Think of it like a function call in code:
 This keeps each guide focused on one job. Complex logic lives in its own guide, not cluttering the main path.
 
 Options:
-- Continue – see a concrete example
+- Continue - see a concrete example
 
 
 ## Node 4: A concrete routing example
 
-Imagine an organisation that grew over time. It started with one core operation, then added a second to expand its product range – similar but not identical. Then a third.
+Imagine an organisation that grew over time. It started with one core operation, then added a second to expand its product range - similar but not identical. Then a third.
 
 The organisation builds a single diagnostic guide to troubleshoot problems across all three operations. When an issue arises in the core operation an engineer might need to refer to this guide and reaches a point where the next action depends on which operation is involved. For example, checking a component that exists on all three lines but behaves differently on each.
 
@@ -54,7 +54,7 @@ At that moment, under the hood, the guide hands the engineer to a sub-guide spec
 The main guide does not need to know what happened inside. It only needs to know which exit was taken to decide what to do next.
 
 Options:
-- Continue – routing to remote guides
+- Continue - routing to remote guides
 
 
 ## Node 5: Routing to remote guides
@@ -77,10 +77,10 @@ Options:
 Main text:
 In this branch you have seen:
 
-- Deferred questions – the guide asks for the specific operation only when the answer matters
-- Routing to specialised sub-guides – each operation's unique details live in its own place
-- Multiple exit points – a sub-guide can return different results (resolved locally, needs shared component, needs vendor)
-- Remote guides – vendor-maintained content that appears only when required
+- Deferred questions - the guide asks for the specific operation only when the answer matters
+- Routing to specialised sub-guides - each operation's unique details live in its own place
+- Multiple exit points - a sub-guide can return different results (resolved locally, needs shared component, needs vendor)
+- Remote guides - vendor-maintained content that appears only when required
 
 The result is a diagnostic system that gives the minimal number of steps to a solution. The user is never asked a question or given an instruction that is not yet relevant.
 

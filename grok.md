@@ -116,7 +116,7 @@ Think of it like a function call in code:
 This keeps each map focused on one job. Complex logic lives in its own map, not cluttering the main path.
 
 Options:
-- Continue – see a concrete example
+- Continue - see a concrete example
 
 
 ## Node 2: An example
@@ -133,7 +133,7 @@ That sub-map handles the specialised checks and can exit in different ways depen
 The main map does not need to know the details inside the sub-map. It only needs to know which exit was taken to decide what to do next.
 
 Options:
-- Continue – routing to remote guides
+- Continue - routing to remote guides
 
 
 ## Node 7: Routing to remote guides
@@ -160,10 +160,10 @@ Options:
 Main text:
 In this branch you have seen:
 
-- Deferred questions – the guide asks for the specific operation only when the answer matters
-- Routing to specialised sub-guides – each operation's unique details live in its own place
-- Multiple exit points – a sub-guide can return different results (resolved locally, needs shared component, needs vendor)
-- Remote guides – vendor-maintained content that appears only when required
+- Deferred questions - the guide asks for the specific operation only when the answer matters
+- Routing to specialised sub-guides - each operation's unique details live in its own place
+- Multiple exit points - a sub-guide can return different results (resolved locally, needs shared component, needs vendor)
+- Remote guides - vendor-maintained content that appears only when required
 
 The result is a diagnostic system that gives the minimal number of steps to a solution. The user is never asked a question or given an instruction that is not yet relevant.
 

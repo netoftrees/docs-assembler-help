@@ -16,7 +16,7 @@ The result is documentation that adapts to the user's situation without becoming
 
 If you have ever copied and pasted the same paragraph into ten different documents, then updated it and missed a spot, you already know the pain.
 
-The demo we will show you later is large – some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
+The demo we will show you later is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
 
 You will also see how breaking things into smaller pieces simplifies maintenance and lets different teams own different sections without conflict.
 
@@ -24,11 +24,11 @@ You will also see how breaking things into smaller pieces simplifies maintenance
 
 This tutorial walks you through five core ideas that make this approach different.
 
-- **Routing** – One map calls another, then returns. No duplication.
-- **Nesting** – Maps inside maps. Handles hundreds of steps cleanly.
-- **Absolute ownership** – Your Git repos. Your control. No subscription.
-- **Publish to Markdown** – Standard files. Uninstall anytime. No lock-in.
-- **Third-party guides** – Use guides others maintain. They update it; you keep working.
+- **Routing** - One map calls another, then returns. No duplication.
+- **Nesting** - Maps inside maps. Handles hundreds of steps cleanly.
+- **Absolute ownership** - Your Git repos. Your control. No subscription.
+- **Publish to Markdown** - Standard files. Uninstall anytime. No lock-in.
+- **Third-party guides** - Use guides others maintain. They update it; you keep working.
 
 Each concept builds on the last. The video walks through them in order.
 
@@ -66,15 +66,15 @@ The map stays short. Each piece stays focused on its own level of detail. Specia
 The user never sees irrelevant steps. Content appears only when needed. Your map stays simple and easy to maintain, even when procedures inside sub-maps change over time.
 
 Routing also enables:
-- **Deduplication** – The same sub-map can be routed to from multiple parent maps
-- **Separation of concerns** – Different teams can own different sub-maps
+- **Deduplication** - The same sub-map can be routed to from multiple parent maps
+- **Separation of concerns** - Different teams can own different sub-maps
 
 ### Summary
 
-- **Deferred questions** – The amp asks for the specific operation only when the answer matters.
-- **Routing to specialised sub-maps** – Each operation's unique details live in its own map.
-- **Multiple exit points** – A sub-map can return through any exit it defines.
-- **Deduplication** – The same sub-map serves many parent maps.
+- **Deferred questions** - The amp asks for the specific operation only when the answer matters.
+- **Routing to specialised sub-maps** - Each operation's unique details live in its own map.
+- **Multiple exit points** - A sub-map can return through any exit it defines.
+- **Deduplication** - The same sub-map serves many parent maps.
 
 The result is a system that gives the minimal number of steps to a solution. The user is never asked a question or given an instruction that is not yet relevant.
 
@@ -112,10 +112,10 @@ The demo we showed earlier has pathways hundreds of steps long. It stays organis
 
 ### Summary
 
-- **Nesting** – One map inside another, hiding complexity
-- **Encapsulation** – The nested map's internal details stay hidden from the parent
-- **Reusability** – The same nested map can be used in many parent maps
-- **Maintainability** – Change a nested map once, and all parents update automatically
+- **Nesting** - One map inside another, hiding complexity
+- **Encapsulation** - The nested map's internal details stay hidden from the parent
+- **Reusability** - The same nested map can be used in many parent maps
+- **Maintainability** - Change a nested map once, and all parents update automatically
 
 Nesting is how you build massive, complex guides without them falling apart. Each piece stays small and focused. The whole system scales.
 
@@ -129,11 +129,11 @@ Most documentation tools use databases. They store your content in tables and bl
 
 Git gives you things a database cannot:
 
-- **Full history** – Every change is tracked. You can see who changed what, and when.
-- **Instant rollback** – Made a mistake? Revert to any previous version with one command.
-- **No new tools to learn** – If you already use Git for code, you already know how to use it for documentation.
-- **Offline access** – Your files are on your hard drive. You do not need an internet connection to write or edit.
-- **Standard diffing** – See exactly what changed between two versions, line by line.
+- **Full history** - Every change is tracked. You can see who changed what, and when.
+- **Instant rollback** - Made a mistake? Revert to any previous version with one command.
+- **No new tools to learn** - If you already use Git for code, you already know how to use it for documentation.
+- **Offline access** - Your files are on your hard drive. You do not need an internet connection to write or edit.
+- **Standard diffing** - See exactly what changed between two versions, line by line.
 
 A database hides the complexity. Git gives you power and control.
 
@@ -141,21 +141,21 @@ A database hides the complexity. Git gives you power and control.
 
 Because your content lives in Git repos you control:
 
-- **No subscription fees** – The extension is free. Git hosting (GitHub, GitLab, Bitbucket) has free tiers. You can also host your own Git server.
-- **No vendor lock-in** – Uninstall the extension tomorrow. Your files are still there. They are just Markdown.
-- **Use your existing workflow** – Pull requests, code reviews, branch policies, CI/CD pipelines – all work the same for documentation as they do for code.
-- **Your team already knows Git** – No training on a proprietary CMS. No new permissions model to learn.
-- **Backups are already handled** – If you already back up your Git repos, you already back up your documentation.
+- **No subscription fees** - The extension is free. Git hosting (GitHub, GitLab, Bitbucket) has free tiers. You can also host your own Git server.
+- **No vendor lock-in** - Uninstall the extension tomorrow. Your files are still there. They are just Markdown.
+- **Use your existing workflow** - Pull requests, code reviews, branch policies, CI/CD pipelines - all work the same for documentation as they do for code.
+- **Your team already knows Git** - No training on a proprietary CMS. No new permissions model to learn.
+- **Backups are already handled** - If you already back up your Git repos, you already back up your documentation.
 
 You own your content completely. The extension is just a tool for editing it.
 
 ### Summary
 
-- **Absolute ownership** – Your content lives in Git repos you control
-- **No subscription** – The extension is free. Hosting is your choice
-- **No lock-in** – Uninstall anytime. Your files remain
-- **Git benefits** – History, rollback, diffing, offline access, no new tools
-- **Existing workflows** – Pull requests, code reviews, CI/CD all work
+- **Absolute ownership** - Your content lives in Git repos you control
+- **No subscription** - The extension is free. Hosting is your choice
+- **No lock-in** - Uninstall anytime. Your files remain
+- **Git benefits** - History, rollback, diffing, offline access, no new tools
+- **Existing workflows** - Pull requests, code reviews, CI/CD all work
 
 The extension does not hold your content hostage. It simply helps you write and organise it.
 
@@ -163,17 +163,17 @@ The extension does not hold your content hostage. It simply helps you write and 
 
 When you finish building your maps, the extension assembles them into standard Markdown files.
 
-These are not proprietary files. They are plain `.md` files that any text editor can open. VS Code, Notepad, Obsidian, Typora, even a basic text editor – they all work.
+These are not proprietary files. They are plain `.md` files that any text editor can open. VS Code, Notepad, Obsidian, Typora, even a basic text editor - they all work.
 
 The Markdown files are what you publish to your hosting (GitHub Pages, your own server, or any static hosting). Your readers never see the maps. They see clean, readable documentation.
 
 ### No lock-in
 
-Most documentation tools store your content in their own format or database. If you stop paying or want to leave, exporting your content is painful – if they let you export at all.
+Most documentation tools store your content in their own format or database. If you stop paying or want to leave, exporting your content is painful - if they let you export at all.
 
 This extension works differently.
 
-The maps you build are stored as JSON files. But the *output* – the final documentation – is Markdown. If you uninstall the extension tomorrow, you lose the ability to edit the maps. But you keep the published Markdown files.
+The maps you build are stored as JSON files. But the *output* - the final documentation - is Markdown. If you uninstall the extension tomorrow, you lose the ability to edit the maps. But you keep the published Markdown files.
 
 You can continue editing those Markdown files with any editor. You lose the branching and routing features, but your documentation is not trapped.
 
@@ -181,21 +181,21 @@ You can continue editing those Markdown files with any editor. You lose the bran
 
 Because the final output is standard Markdown:
 
-- **No vendor lock-in** – Uninstall the extension. Your published docs are still yours.
-- **Edit anywhere** – Any Markdown editor works. No special software required.
-- **Host anywhere** – Markdown files can be served from any web server, static hosting, or even a shared drive.
-- **Readers never need the extension** – They just see normal documentation. No plugins, no special viewers.
-- **Future-proof** – Markdown has been around for decades. It will still be readable in twenty years.
+- **No vendor lock-in** - Uninstall the extension. Your published docs are still yours.
+- **Edit anywhere** - Any Markdown editor works. No special software required.
+- **Host anywhere** - Markdown files can be served from any web server, static hosting, or even a shared drive.
+- **Readers never need the extension** - They just see normal documentation. No plugins, no special viewers.
+- **Future-proof** - Markdown has been around for decades. It will still be readable in twenty years.
 
 You can think of the extension as a power tool for *building* documentation. The output is standard. You are not locked into the tool.
 
 ### Summary
 
-- **Publish to Markdown** – The final output is standard `.md` files
-- **No lock-in** – Uninstall the extension. Your docs remain
-- **Edit anywhere** – Any Markdown editor works
-- **Host anywhere** – GitHub Pages, your own server, or any static hosting
-- **Readers need nothing** – They just see normal documentation
+- **Publish to Markdown** - The final output is standard `.md` files
+- **No lock-in** - Uninstall the extension. Your docs remain
+- **Edit anywhere** - Any Markdown editor works
+- **Host anywhere** - GitHub Pages, your own server, or any static hosting
+- **Readers need nothing** - They just see normal documentation
 
 The extension is a tool, not a prison. Use it while it helps you. Leave it if you need to. Your documentation stays yours.
 
@@ -211,8 +211,8 @@ When your reader reaches that step, they are handed to the third party's guide. 
 
 Without remote guides, you have two bad options:
 
-- **Copy their content into your guide** – You duplicate everything. When they update, you must find every copy and update it too. You will miss spots.
-- **Write your own version of their content** – You reinvent the wheel. You spend time on things you are not an expert in. You get it wrong.
+- **Copy their content into your guide** - You duplicate everything. When they update, you must find every copy and update it too. You will miss spots.
+- **Write your own version of their content** - You reinvent the wheel. You spend time on things you are not an expert in. You get it wrong.
 
 With remote guides, you do neither. You link to their guide. They host and maintain it. You move on.
 
@@ -220,11 +220,11 @@ With remote guides, you do neither. You link to their guide. They host and maint
 
 Because you can link to guides maintained by others:
 
-- **You save work** – Write once. Link to experts. Never duplicate their content.
-- **Experts keep it up to date** – When a vendor updates their guide, your map automatically uses the new version. You change nothing.
-- **You stay in your lane** – Focus on what your team knows best. For everything else, link to someone who knows it better.
-- **Build an ecosystem** – Different teams across your organisation can publish their own guides and use each other's. A hardware team maintains the hardware guide. A software team maintains the software guide. A production line guide links to both.
-- **Suppliers participate** – A component vendor can host their own troubleshooting guide. You link to it. They update it when they change their product.
+- **You save work** - Write once. Link to experts. Never duplicate their content.
+- **Experts keep it up to date** - When a vendor updates their guide, your map automatically uses the new version. You change nothing.
+- **You stay in your lane** - Focus on what your team knows best. For everything else, link to someone who knows it better.
+- **Build an ecosystem** - Different teams across your organisation can publish their own guides and use each other's. A hardware team maintains the hardware guide. A software team maintains the software guide. A production line guide links to both.
+- **Suppliers participate** - A component vendor can host their own troubleshooting guide. You link to it. They update it when they change their product.
 
 The extension does not care where a guide lives. It only cares that it exists and follows the same map format.
 
@@ -240,11 +240,11 @@ Your reader never knows which parts came from you and which came from a vendor. 
 
 ## Summary
 
-- **Third party guides** – Maps published and maintained by others
-- **Link, don't copy** – You reference their guide instead of duplicating their content
-- **Automatic updates** – When they change their guide, your guide gets the new version
-- **Experts stay in charge** – Vendors, suppliers, or specialist teams maintain what they know best
-- **Ecosystem thinking** – Build distributed documentation systems across teams and organisations
+- **Third party guides** - Maps published and maintained by others
+- **Link, don't copy** - You reference their guide instead of duplicating their content
+- **Automatic updates** - When they change their guide, your guide gets the new version
+- **Experts stay in charge** - Vendors, suppliers, or specialist teams maintain what they know best
+- **Ecosystem thinking** - Build distributed documentation systems across teams and organisations
 
 The result is less work for you, better accuracy for your readers, and a system that scales across your whole organisation.
 
@@ -252,11 +252,11 @@ The result is less work for you, better accuracy for your readers, and a system 
 
 This tutorial introduced five core concepts that work together:
 
-- **Routing** – One map calls another and returns. Control flows cleanly.
-- **Nesting** – Maps inside maps. Complexity hides inside smaller pieces.
-- **Absolute ownership** – Your Git repos. Your control. No subscription.
-- **Publish to Markdown** – Standard files. Uninstall anytime. No lock-in.
-- **Third party guides** – Experts maintain their own content. You just link.
+- **Routing** - One map calls another and returns. Control flows cleanly.
+- **Nesting** - Maps inside maps. Complexity hides inside smaller pieces.
+- **Absolute ownership** - Your Git repos. Your control. No subscription.
+- **Publish to Markdown** - Standard files. Uninstall anytime. No lock-in.
+- **Third party guides** - Experts maintain their own content. You just link.
 
 Each concept solves a specific problem. Together, they form a complete system.
 
@@ -276,11 +276,11 @@ If you uninstall the extension tomorrow, the published Markdown files remain. Yo
 
 This combination of features lets you build documentation that traditional tools cannot:
 
-- **Massive scale** – Hundreds or thousands of steps, still organised
-- **No duplication** – Write something once. Use it everywhere.
-- **Team ownership** – Different teams own different maps. No merge conflicts on documentation.
-- **Supplier integration** – Link to vendor guides. They update them. You do nothing.
-- **Future safety** – No lock-in. Your published docs are standard Markdown.
+- **Massive scale** - Hundreds or thousands of steps, still organised
+- **No duplication** - Write something once. Use it everywhere.
+- **Team ownership** - Different teams own different maps. No merge conflicts on documentation.
+- **Supplier integration** - Link to vendor guides. They update them. You do nothing.
+- **Future safety** - No lock-in. Your published docs are standard Markdown.
 
 You are not building a document. You are building a system.
 
@@ -288,11 +288,11 @@ You are not building a document. You are building a system.
 
 You have completed the tutorial. Here is what to do next:
 
-1. **Install the extension** – Search for "Documentation Assembler" in the VS Code marketplace.
-2. **Clone the demo repository** – The demo you saw in this tutorial is available on GitHub.
-3. **Open a map** – Look at how the routing, nesting, and remote guides are structured.
-4. **Make a small change** – Add a node. Change some text. See how it works.
-5. **Build your own map** – Start small. A single map with three options. Then add routing. Then nest a map inside another.
+1. **Install the extension** - Search for "Documentation Assembler" in the VS Code marketplace.
+2. **Clone the demo repository** - The demo you saw in this tutorial is available on GitHub.
+3. **Open a map** - Look at how the routing, nesting, and remote guides are structured.
+4. **Make a small change** - Add a node. Change some text. See how it works.
+5. **Build your own map** - Start small. A single map with three options. Then add routing. Then nest a map inside another.
 
 All files are plain JSON and Markdown. You cannot break anything permanently. Git has your history.
 
