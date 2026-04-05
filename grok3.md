@@ -175,7 +175,7 @@ You simply link to it from your own map. When the reader reaches that step they 
 
 Remote guides let you link instead of copy. The people who know the content best are the ones who maintain it.
 
-### What you have learned
+## What you have learned
 
 This tutorial introduced five core concepts that work together:
 
