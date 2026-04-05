@@ -239,7 +239,7 @@ Options:
 
 ## Node 3: Summary
 Main text:
-You own the content completely. The extension is only the editor — never the storage.
+You own the content completely. The extension is only the editor - never the storage.
 
 Exit:
 - Absolute ownership explanation completed
@@ -287,7 +287,7 @@ Options:
 
 ## Node 2: How remote guides work
 Main text:
-If the owner updates their guide, your guide automatically uses the latest version — you change nothing.
+If the owner updates their guide, your guide automatically uses the latest version - you change nothing.
 
 This lets you reuse up-to-date content from vendors, libraries, or other teams without copying it.
 

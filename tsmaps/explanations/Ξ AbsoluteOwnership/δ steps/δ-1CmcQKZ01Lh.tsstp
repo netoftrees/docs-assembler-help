@@ -1,12 +1,7 @@
 ### Benefits of absolute ownership
 
-Because your content lives in Git repos you control:
-
-- **No subscription fees** – The extension is free. Git hosting (GitHub, GitLab, Bitbucket) has free tiers. You can also host your own Git server.
-- **No vendor lock-in** – Uninstall the extension tomorrow. Your files are still there. They are just Markdown.
-- **Use your existing workflow** – Pull requests, code reviews, branch policies, CI/CD pipelines – all work the same for documentation as they do for code.
-- **Your team already knows Git** – No training on a proprietary CMS. No new permissions model to learn.
-- **Backups are already handled** – If you already back up your Git repos, you already back up your documentation.
-
-You own your content completely. The extension is just a tool for editing it.
+- No subscription fees
+- No vendor lock-in
+- Use your existing Git workflow (pull requests, reviews, CI/CD)
+- Backups are already handled
 

@@ -1,12 +1,8 @@
-### An example
+### Nesting example
 
 Imagine a troubleshooting guide for a factory.
 
-The top-level map has five steps: check power, check network, check sensors, check software, log the outcome.
+The top-level map refers to maps for all of the major assemblies of the factory line. Those in turn refer to their sub-assemblies, which refer to their machines, which refer to their components, and so on.
 
-The "check sensors" step could be a nested map. That map contains twenty steps about different sensors across different production lines.
-
-The top-level map does not need to know about those twenty steps. It only sees one step called "check sensors". The complexity is hidden inside the nested map.
-
-If the sensors change, you update only the nested map. The top-level map stays unchanged.
+The top-level map does not need to know the internal steps of any nested map. If a component changes, you update only the nested map and all its parent maps automatically reflect the change.
 

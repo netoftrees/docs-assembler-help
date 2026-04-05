@@ -21,26 +21,14 @@
                 "order": 1,
                 "nodes": [
                     {
-                        "key": "1Cra13H00rA",
+                        "key": "1CrajIg00UY",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1CraKZZ02NS",
+                                "key": "1CranLv01Dx",
                                 "order": 1,
-                                "nodes": [
-                                    {
-                                        "key": "1CrajIg00UY",
-                                        "order": 1,
-                                        "nodes": [
-                                            {
-                                                "key": "1CranLv01Dx",
-                                                "order": 1,
-                                                "option": "Next",
-                                                "exitKey": "1Cras7J01Cc"
-                                            }
-                                        ]
-                                    }
-                                ]
+                                "option": "Next",
+                                "exitKey": "1Cras7J01Cc"
                             }
                         ]
                     }
@@ -58,21 +46,13 @@
             "relativePath": "./δ steps/δ-1CrZDw701xn.tsstp"
         },
         {
-            "key": "δ-1Cra13H00rA",
-            "relativePath": "./δ steps/δ-1Cra13H00rA.tsstp"
-        },
-        {
-            "key": "δ-1CraKZZ02NS",
-            "relativePath": "./δ steps/δ-1CraKZZ02NS.tsstp"
-        },
-        {
             "key": "δ-1CrajIg00UY",
             "relativePath": "./δ steps/δ-1CrajIg00UY.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1CrauOD00b4",
-        "editorID": "car_9351dc0f5a9c4f9e8fc2f25caa080dfa",
-        "ticks": 1775331371950
+        "id": "1Cv6tQt000R",
+        "editorID": "car_f1c7d3631b634f5888053c9c438c3623",
+        "ticks": 1775383323775
     }
 }

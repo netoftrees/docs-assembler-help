@@ -18,7 +18,7 @@ The result is documentation that adapts to the user's situation without becoming
 
 If you have ever copied and pasted the same paragraph into ten different documents, then updated it and missed a spot, you already know the pain.
 
-The demo we will show you later is large — some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
+The demo we will show you later is large - some pathways through it are hundreds of steps long. It proves this tool can handle massive, complex systems.
 
 You will also see how breaking things into smaller pieces simplifies maintenance and lets different teams own different sections without conflict.
 
@@ -187,7 +187,7 @@ Each concept solves a specific maintenance problem. Together they form a complet
 
 You write maps in VS Code. The maps live in Git repos you control (absolute ownership). You nest maps inside other maps to keep things organised (nesting).
 
-When a decision point is reached, one map can route to another map — or to a remote guide — and return (routing).
+When a decision point is reached, one map can route to another map - or to a remote guide - and return (routing).
 
 When you are ready, the extension assembles everything into standard Markdown files (publish to Markdown). You host those files anywhere. Your readers see clean documentation.
 
@@ -195,4 +195,4 @@ If you uninstall the extension tomorrow, the published Markdown files remain. Yo
 
 ### Final summary
 
-All files are plain JSON and Markdown. You cannot break anything permanently — Git has your history.
+All files are plain JSON and Markdown. You cannot break anything permanently - Git has your history.

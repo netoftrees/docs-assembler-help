@@ -1,9 +1,4 @@
-### Summary
+### Nesting summary
 
-- **Nesting** – One map inside another, hiding complexity
-- **Encapsulation** – The nested map's internal details stay hidden from the parent
-- **Reusability** – The same nested map can be used in many parent maps
-- **Maintainability** – Change a nested map once, and all parents update automatically
-
-Nesting is how you build massive, complex guides without them falling apart. Each piece stays small and focused. The whole system scales.
+Nesting gives you encapsulation, reusability and maintainability. Like classes in code, it is how you build massive, complex guides that are straightforward to maintain and grow.
 

@@ -9,5 +9,5 @@ Think of it like a function call in code:
 
 This keeps each map focused on one job. Complex logic lives in its own map.
 
-A routed map is called at a decision point and can return through different exits, allowing the flow to branch and rejoin in multiple ways.
+A routed map can have multiple exit points, allowing the flow to branch and rejoin in different ways.
 

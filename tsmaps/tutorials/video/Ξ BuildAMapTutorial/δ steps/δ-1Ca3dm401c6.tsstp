@@ -2,9 +2,9 @@ Maps let you split documentation into reusable sections.
 
 You can nest one map inside another, and another inside that, as many levels as you need. This keeps even very large guides manageable.
 
-Maps support inheritance — you can base a new map on an existing one so that changes in the base map update everywhere it is used.
+Maps support inheritance - you can base a new map on an existing one so that changes in the base map update everywhere it is used.
 
-You can also define variables for text that appears in many places — change the variable once and it updates everywhere.
+You can also define variables for text that appears in many places - change the variable once and it updates everywhere.
 
 When you publish a map the extension assembles all its components into a collection of markdown files we call a guide.
 
@@ -30,7 +30,7 @@ CONSIDER - add branches to expand on these (Also look at how the gifs in the ext
 
 1. **Variables for reusable text**  
    The demo and extension both emphasize variables heavily as a simple way to define text snippets (product names, common phrases, URLs, etc.) in one place. Changes update everywhere automatically.  
-   This complements nesting and routing well — it's another tool that prevents duplication in large guides.
+   This complements nesting and routing well - it's another tool that prevents duplication in large guides.
 
 2. **Inheritance and changes propagating automatically**  
    Maps support inheritance/composition: you can base one map on another, and updates to the "parent" map flow through to all maps that use it. This is a key reason massive trees stay maintainable (single source of truth).
