@@ -68,7 +68,24 @@
                                                                                             {
                                                                                                 "key": "1Cv7Eum02Y2",
                                                                                                 "order": 1,
-                                                                                                "isLeaf": true
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "1CvXvNs00vH",
+                                                                                                        "order": 1,
+                                                                                                        "option": "Step into the demo",
+                                                                                                        "isLeaf": true,
+                                                                                                        "gPath": {
+                                                                                                            "guidePath": "DocumentationHell_frags",
+                                                                                                            "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
+                                                                                                        }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "key": "1CvXzZJ01AD",
+                                                                                                        "order": 2,
+                                                                                                        "option": "Return to tutorial start",
+                                                                                                        "isLeaf": true
+                                                                                                    }
+                                                                                                ]
                                                                                             }
                                                                                         ]
                                                                                     }
@@ -203,11 +220,19 @@
         {
             "key": "δ-1Cv7Eum02Y2",
             "relativePath": "./δ steps/δ-1Cv7Eum02Y2.tsstp"
+        },
+        {
+            "key": "δ-1CvXvNs00vH",
+            "relativePath": "./δ steps/δ-1CvXvNs00vH.tsstp"
+        },
+        {
+            "key": "δ-1CvXzZJ01AD",
+            "relativePath": "./δ steps/δ-1CvXzZJ01AD.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1CvXHMI029u",
-        "editorID": "car_295c3fadea9042369573bdde9490e6b3",
-        "ticks": 1775389612274
+        "id": "1CvYQc600W0",
+        "editorID": "car_fddfc98b59c34b4ba2d22f59d33887b6",
+        "ticks": 1775389886178
     }
 }
