@@ -73,11 +73,20 @@
                                                                                                         "key": "1CvXvNs00vH",
                                                                                                         "order": 1,
                                                                                                         "option": "Step into the demo",
-                                                                                                        "isLeaf": true,
                                                                                                         "gPath": {
-                                                                                                            "guidePath": "DocumentationHell_frags",
+                                                                                                            "guidePath": "Technical/DocumentationHellContents_frags",
                                                                                                             "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
-                                                                                                        }
+                                                                                                        },
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "1D4244102DY",
+                                                                                                                "order": 1,
+                                                                                                                "option": "Next",
+                                                                                                                "sharedAssetKey": "1D42TrI01B8",
+                                                                                                                "isLeaf": true,
+                                                                                                                "iExitKey": "1D3wjIz02GN"
+                                                                                                            }
+                                                                                                        ]
                                                                                                     },
                                                                                                     {
                                                                                                         "key": "1CvXzZJ01AD",
@@ -115,11 +124,20 @@
                         "key": "1CmDqDS02aE",
                         "order": 3,
                         "option": "Step through the demo used in the video",
-                        "isLeaf": true,
                         "gPath": {
-                            "guidePath": "DocumentationHell_frags",
+                            "guidePath": "Technical/DocumentationHellContents_frags",
                             "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
-                        }
+                        },
+                        "nodes": [
+                            {
+                                "key": "1D41mqQ01MI",
+                                "order": 1,
+                                "option": "Next",
+                                "sharedAssetKey": "1D42OaX015O",
+                                "isLeaf": true,
+                                "iExitKey": "1D3wjIz02GN"
+                            }
+                        ]
                     }
                 ]
             },
@@ -228,11 +246,21 @@
         {
             "key": "δ-1CvXzZJ01AD",
             "relativePath": "./δ steps/δ-1CvXzZJ01AD.tsstp"
+        },
+        {
+            "key": "1D42OaX015O",
+            "relativePath": "../../../_shared/dividingStars.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1D42TrI01B8",
+            "relativePath": "../../../_shared/dividingStars.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1CvYQc600W0",
-        "editorID": "car_fddfc98b59c34b4ba2d22f59d33887b6",
-        "ticks": 1775389886178
+        "id": "1D42VID00LP",
+        "editorID": "car_dd6fb68d8cc843d89d0725a0fbdae5c4",
+        "ticks": 1775515264693
     }
 }
