@@ -3,6 +3,6 @@
 
 ### Final summary
 
-All files are plain JSON and Markdown. You cannot break anything permanently - Git has your history.
+All files are plain JSON or Markdown, and Git has your history.
 
 {{::il.quickStart-link}}
