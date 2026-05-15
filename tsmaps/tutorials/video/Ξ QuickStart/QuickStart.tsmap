@@ -75,7 +75,7 @@
                                                                                                         "option": "Step into the demo",
                                                                                                         "gPath": {
                                                                                                             "guidePath": "Technical/DocumentationHellContents_frags",
-                                                                                                            "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
+                                                                                                            "bankUrl": "https://netoftrees.com/docs-assembler-demo/"
                                                                                                         },
                                                                                                         "nodes": [
                                                                                                             {
@@ -126,7 +126,7 @@
                         "option": "Step through the demo used in the video",
                         "gPath": {
                             "guidePath": "Technical/DocumentationHellContents_frags",
-                            "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
+                            "bankUrl": "https://netoftrees.com/docs-assembler-demo/"
                         },
                         "nodes": [
                             {
@@ -149,7 +149,7 @@
                 "isAncillary": true,
                 "gPath": {
                     "guidePath": "Technical/Hallucinations_frags",
-                    "bankUrl": "https://netoftrees.github.io/docs-assembler-demo/"
+                    "bankUrl": "https://netoftrees.com/docs-assembler-demo/"
                 }
             },
             {
@@ -259,8 +259,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1D42VID00LP",
-        "editorID": "car_dd6fb68d8cc843d89d0725a0fbdae5c4",
-        "ticks": 1775515264693
+        "id": "1GjUBKn00Xd",
+        "editorID": "me_ac7213c937a64180af40647fc095b1da",
+        "ticks": 1778876089429
     }
 }
