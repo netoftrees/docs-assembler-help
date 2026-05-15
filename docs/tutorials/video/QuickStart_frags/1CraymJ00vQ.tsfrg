@@ -32,6 +32,6 @@ If you uninstall the extension tomorrow, the published Markdown files remain. Yo
 
 ### Final summary
 
-All files are plain JSON and Markdown. You cannot break anything permanently - Git has your history.
+All files are plain JSON or Markdown, and Git has your history.
 
 [Quick start video](tutorials/video/QuickStart/)

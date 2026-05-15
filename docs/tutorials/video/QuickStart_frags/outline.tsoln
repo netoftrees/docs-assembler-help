@@ -65,7 +65,7 @@
                     },
                     {
                         "i": "1CmDqDS02aE",
-                        "c": 5,
+                        "c": 6,
                         "o": [
                             {
                                 "i": "1D41mqQ01MI",
@@ -77,15 +77,15 @@
             },
             {
                 "i": "1CkzgTh02Ub",
-                "c": 6
-            },
-            {
-                "i": "1Ckzh1q00nQ",
                 "c": 7
             },
             {
-                "i": "1CkzpWA01l3",
+                "i": "1Ckzh1q00nQ",
                 "c": 8
+            },
+            {
+                "i": "1CkzpWA01l3",
+                "c": 9
             }
         ]
     },
@@ -111,12 +111,16 @@
             "p": "explanations/ThirdPartyGuides_frags"
         },
         {
-            "p": "https://netoftrees.github.io/docs-assembler-demo/Technical/DocumentationHellContents_frags",
-            "b": "https://netoftrees.github.io/docs-assembler-demo/"
+            "p": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/Technical/DocumentationHellContents_frags",
+            "b": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/"
         },
         {
-            "p": "https://netoftrees.github.io/docs-assembler-demo/Technical/Hallucinations_frags",
-            "b": "https://netoftrees.github.io/docs-assembler-demo/"
+            "p": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/Technical/DocumentationHellContents_frags",
+            "b": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/"
+        },
+        {
+            "p": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/Technical/Hallucinations_frags",
+            "b": "https://cdn.jsdelivr.net/gh/netoftrees/docs-assembler-demo@main/"
         },
         {
             "i": "1CP8y0V01Io",
